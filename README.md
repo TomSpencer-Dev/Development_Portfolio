@@ -48,10 +48,12 @@ page that allows staff to view all of the quotes that have been issues.
 
 <h2>Web Sites</h2>
 
+[TS-Development.ca](https://github.com/TomSpencer-Dev/Development_Portfolio/blob/main/Websites/index.html)
+
 <h3>TS-Development.ca<h3>
 
 This is a website to share my website portfolio with people.
 
-[TS-Development.ca](https://github.com/TomSpencer-Dev/Development_Portfolio/blob/main/Websites/index.html)
+
 
 
