@@ -12,7 +12,7 @@ This page is an example home page for a space travel company. It's styled using 
 
 <h3>Movie Theater Site</h3>
 
-This page is an example home page for a movie theater that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards and dropdowns. <br>
+This page is an example home page for a movie theater that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards and dropdowns. <br><br><br>
 
 <h2>JavaScript Projects</h2>
 
