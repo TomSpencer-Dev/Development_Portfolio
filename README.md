@@ -2,7 +2,7 @@
 
 This is a display of sample websites that I made using HTML and CSS.
 
-<h2>Projects</h2>
+<h2>HTML and CSS Projects</h2>
 
 [Space Station Site](https://github.com/TomSpencer-Dev/Development_Portfolio/blob/main/HTML_CSS_Projects/TheSpaceStation.html)<br>
 [Movie Theater Site](https://github.com/TomSpencer-Dev/Development_Portfolio/blob/main/HTML_CSS_Projects/academy.cinemas.html)
