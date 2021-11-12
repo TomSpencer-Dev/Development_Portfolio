@@ -32,9 +32,6 @@ The classic game of tic-tac-toe. It begins with the user selecting the first squ
 <h3>Calculator</h3>
 
 A basic 4 function calculator. Users can add, subtract, multiply, and divide using the calculator. 
-<h1>C# Projects</h1>
-
-
 
 <h2>C# Projects</h2>
 
@@ -49,7 +46,9 @@ This project is an MVC web application that mimics a car insurance website. It t
 on policy information and calculates a quote based on business logic. There is also an admin 
 page that allows staff to view all of the quotes that have been issues. 
 
-<h1>Portfolio Site</h1>
+<h2>Web Sites</h2>
+
+<h3>TS-Development.ca<h3>
 
 This is a website to share my website portfolio with people.
 
