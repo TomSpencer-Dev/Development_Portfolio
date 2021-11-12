@@ -4,7 +4,8 @@ This is a small project I made using C# and .NET Framework
 
 <h2>Projects:</h2>
 
-[Car Insurance](https://github.com/TomSpencer-Dev/HTML_and_CSS_Projects/blob/main/index.html)<br>
+[Car Insurance](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/C_Sharp_Projects/CarInsurance)<br>
+[Twenty One](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/C_Sharp_Projects/TwentyOne)
 
 <br>
 
