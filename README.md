@@ -1,4 +1,4 @@
-<h1>Tom Spencer Development Portfolio</h1>
+<h1>Tom Spencer Development Portfolio</h1><br>
 
 <h2>HTML and CSS Projects</h2>
 
