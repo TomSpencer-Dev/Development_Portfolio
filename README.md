@@ -1,7 +1,5 @@
 <h1>Tom Spencer Development Portfolio</h1>
 
-This is a display of sample websites that I made using HTML and CSS.
-
 <h2>HTML and CSS Projects</h2>
 
 [Space Station Site](https://github.com/TomSpencer-Dev/Development_Portfolio/blob/main/HTML_CSS_Projects/TheSpaceStation.html)<br>
@@ -15,11 +13,8 @@ This page is an example home page for a space travel company. It's styled using 
 <h3>Movie Theater Site</h3>
 
 This page is an example home page for a movie theater that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards and dropdowns. 
-# JavaScript_Projects
 
-These are some small projects I made using JavaScript.
-
-<h2>Projects</h2>
+<h2>JavaScript Projects</h2>
 
 [Pizza Menu](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/JavaScript_Projects/Pizza_Menu)<br>
 [Tic-Tac-Toe Game](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/JavaScript_Projects/TicTacToe)<br>
@@ -39,9 +34,9 @@ The classic game of tic-tac-toe. It begins with the user selecting the first squ
 A basic 4 function calculator. Users can add, subtract, multiply, and divide using the calculator. 
 <h1>C# Projects</h1>
 
-This is a small project I made using C# and .NET Framework
 
-<h2>Projects:</h2>
+
+<h2>C# Projects</h2>
 
 [Car Insurance](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/C_Sharp_Projects/CarInsurance)<br>
 [Twenty One](https://github.com/TomSpencer-Dev/Development_Portfolio/tree/main/C_Sharp_Projects/TwentyOne)
